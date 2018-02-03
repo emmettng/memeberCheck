@@ -1,0 +1,44 @@
+[
+    { "hostname":"epoque_local",
+      "usr": "dorothy",
+      "pwd": "dorothy",
+      "host": "10.236.3.240",
+      "database": "learning_test",
+      "port": 3306
+    },
+    { "hostname":"wx_user",
+      "usr": "dev_user",
+      "pwd": "j4OrvWC1wR7yUOY1",
+      "host": "rr-wz92i60yyo2fss595o.mysql.rds.aliyuncs.com",
+      "database": "wx_user",
+      "port": 3306
+    },
+    { "hostname":"wx_user_info",
+      "usr": "dev_user",
+      "pwd": "j4OrvWC1wR7yUOY1",
+      "host": "rr-wz92i60yyo2fss595o.mysql.rds.aliyuncs.com",
+      "database": "wx_user_info",
+      "port": 3306
+    },
+    { "hostname":"uc_center",
+      "usr": "dev_user",
+      "pwd": "j4OrvWC1wR7yUOY1",
+      "host": "rr-wz9mrzdc8l955d22so.mysql.rds.aliyuncs.com",
+      "database": "uc_user",
+      "port": 3306
+    },
+    { "hostname":"dlo_3dscan",
+      "usr": "hw_user",
+      "pwd": "zCppoAI716IjwGYQ",
+      "host": "rm-wz9z57y6wl7diqz09o.mysql.rds.aliyuncs.com",
+      "database": "dlo_3dscan",
+      "port": 3306
+    },
+    { "hostname":"local_test",
+      "usr":"root",
+      "pwd":"840929",
+      "host":"localhost",
+      "database":"belletest",
+      "port":3306
+    }
+]
